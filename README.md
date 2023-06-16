@@ -1,5 +1,5 @@
 ![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw2oQNoC5nam9oZ6WGlzqEk6&ust=1686978151591000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjjgb6Bx_8CFQAAAAAdAAAAABAE)
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif)
 
 <h1 align="center">Hi 👋, I'm Jotiba Tingare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
