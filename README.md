@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Jotiba Tingare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
