@@ -1,5 +1,5 @@
 ![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif)
+(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Jotiba Tingare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
